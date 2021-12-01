@@ -1,6 +1,6 @@
 {
-  "name": "trying-package",
-  "version": "0.0.1",
+  "name": "agami",
+  "version": "0.0.2",
   "description": "test package",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",

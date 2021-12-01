@@ -38,7 +38,7 @@ export const Button = ({
   return (
     <button
       type="button"
-      className={['storybook-button', `storybook-button--${size}`, mode].join(' ')}
+      className={['agami-btn primary', `${size}`, mode].join(' ')}
       style={{ backgroundColor }}
       {...props}
     >
@@ -46,5 +46,4 @@ export const Button = ({
     </button>
   );
 };
-
 export default Button;
