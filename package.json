@@ -1,5 +1,5 @@
 {
-  "name": "trying",
+  "name": "trying-package",
   "version": "0.0.1",
   "description": "test package",
   "main": "lib/index.js",
