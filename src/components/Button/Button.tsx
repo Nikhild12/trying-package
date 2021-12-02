@@ -38,7 +38,8 @@ export const Button = ({
   return (
     <button
       type="button"
-      className={['agami-btn primary', `${size}`, mode].join(' ')}
+      // className={['agami-btn primary', `${size}`, mode].join(' ')}
+      className={["agami-btn primary"].join(' ')}
       style={{ backgroundColor }}
       {...props}
     >

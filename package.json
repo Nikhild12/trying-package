@@ -1,6 +1,6 @@
 {
   "name": "agami",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "test package",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
@@ -8,6 +8,10 @@
   "author": "Nikhil Dhore",
   "license": "MIT",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nikhild12/trying-package"
+  },
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@rollup/plugin-commonjs": "^21.0.1",
